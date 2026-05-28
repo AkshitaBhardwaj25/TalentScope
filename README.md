@@ -1,4 +1,4 @@
-# ⚡ HR TalentScope — ML Analytics Platform
+# ⚡ HR TalentScope - ML Analytics Platform
 
 An end-to-end Machine Learning platform for HR job-change prediction.
 Train 5 models, explore data visually, and generate competition submissions.
