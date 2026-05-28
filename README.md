@@ -70,33 +70,6 @@ hr_analytics/
 
 ---
 
-## 📊 EDA Charts
-
-- Target class distribution (bar + donut)
-- Missing value analysis
-- Experience distribution
-- Education level breakdown
-- Company size & type
-- Gender vs. job-change rate
-- Training hours distribution + box plot
-- City Development Index analysis
-- Feature correlation matrix
-- Feature vs. target seek-rate grid
-
----
-
-## 📤 Submission Format
-
-```
-enrollee_id,target
-32403,0.22
-9858,0.42
-...
-```
-`target` is the predicted probability of job-seeking (0–1).
-
----
-
 ## 🔌 API Endpoints
 
 | Method | Route | Description |
@@ -111,3 +84,9 @@ enrollee_id,target
 | GET  | `/api/download-submission` | Download submission.csv |
 | GET  | `/api/status` | Pipeline step completion status |
 | GET  | `/api/model-comparison` | Model metrics JSON |
+
+---
+
+# Author
+
+Akshita Bhardwaj
